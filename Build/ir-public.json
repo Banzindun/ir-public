@@ -1,0 +1,16 @@
+{
+"companyName": "Jan Kočur",
+"productName": "InfiniteRunner",
+"productVersion": "0.01",
+"dataUrl": "ir-public.data.unityweb",
+"wasmCodeUrl": "ir-public.wasm.code.unityweb",
+"wasmFrameworkUrl": "ir-public.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
